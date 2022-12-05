@@ -1,0 +1,47 @@
+#spinner-section{
+    display: none;
+    margin: auto;
+    margin-top: 10px;
+}
+#meal-section{
+    width: 90%;
+    margin: auto;
+}
+.card > img{
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+}
+h5{
+    color: dodgerblue;
+    font-weight: bolder;
+}
+p{
+    font-weight: 600;
+}
+.detail-btn{
+    background-color: darkorange;
+    border: none;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 20px;
+}
+.detail-btn:hover {
+    background-color: cornsilk;
+    color: black;
+}
+.single-drink{
+    position: fixed;
+    top: 0;
+}
+.single-card{
+    border: 2px solid darkkhaki;
+    background-color: rgb(255, 232, 225);
+    border-radius: 20px;
+    width: 30%;
+    margin: auto;
+}
+.single-card > img{
+    padding: 20px;
+    width: 50%;
+}
